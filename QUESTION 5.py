@@ -27,7 +27,7 @@ print("Capitalized String:", result)
 
 """
 My Pycharm results for the above written code are as follows:
-C:\Users\hp\PycharmProjects\pythonProject2\.venv\Scripts\python.exe "C:\Users\hp\PycharmProjects\pythonProject2\QUESTION 5.py" 
+[LOCAL_FILE_PATH_REDACTED]
 Hi
 Teach2Give Is A Nice, Great And Educational Organization
 Enter the string to be capitalized: datascience is my number one passion
